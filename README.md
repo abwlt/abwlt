@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abwlt" alt="abwlt" /></a></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abwlt&show_icons=true&locale=en&layout=compact" alt="abwlt" /></p>
