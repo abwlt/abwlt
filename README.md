@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=6000&pause=1234&color=D15DDE&width=435&lines=Hi+there!+I'm+Triet;Welcom+to+my+GitHub+Profile!)](https://git.io/typing-svg)
-</p>
+<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=6000&pause=1234&color=D15DDE&width=435&lines=Hi+there!+I'm+Triet;Welcom+to+my+GitHub+Profile!)](https://git.io/typing-svg)</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/huytriet2010) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fyodorudagi311/) 
