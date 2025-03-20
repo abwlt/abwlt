@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abwlt&show_icons=true&locale=en&layout=compact" alt="abwlt" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abwlt&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/abwlt)
+
